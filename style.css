@@ -1,0 +1,20 @@
+#rickroll {
+    position:fixed;
+    width:100%;
+    height:100%;
+ 
+  top:0px;
+    left:0px;
+}
+#image {
+  position:fixed;
+  height:100px;
+  width:500px;
+  margin-left:520px;
+  margin-top:570px;
+}
+#assign {
+  position:fixed;
+  margin-left:870px;
+  margin-top:-20px;
+}
